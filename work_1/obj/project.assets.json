@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Asus\\.nuget\\packages\\": {}
+    "C:\\Users\\iigluayy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Documents\\GitHub\\New folder\\Thitiwut_work1\\work_1\\work_1.vbproj",
+      "projectUniqueName": "E:\\Users\\iigluayy\\Documents\\GitHub\\Thitiwut_work1\\work_1\\work_1.vbproj",
       "projectName": "work_1",
-      "projectPath": "C:\\Users\\Asus\\Documents\\GitHub\\New folder\\Thitiwut_work1\\work_1\\work_1.vbproj",
-      "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Documents\\GitHub\\New folder\\Thitiwut_work1\\work_1\\obj\\",
+      "projectPath": "E:\\Users\\iigluayy\\Documents\\GitHub\\Thitiwut_work1\\work_1\\work_1.vbproj",
+      "packagesPath": "C:\\Users\\iigluayy\\.nuget\\packages\\",
+      "outputPath": "E:\\Users\\iigluayy\\Documents\\GitHub\\Thitiwut_work1\\work_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\iigluayy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
