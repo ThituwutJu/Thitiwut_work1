@@ -35,7 +35,7 @@ Partial Class Form1
         '
         'Label1
         '
-        Me.Label1.Font = New System.Drawing.Font("TH SarabunPSK", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.Label1.Location = New System.Drawing.Point(14, 12)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(415, 68)
@@ -46,7 +46,7 @@ Partial Class Form1
         'Label2
         '
         Me.Label2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.Label2.Font = New System.Drawing.Font("TH SarabunPSK", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.Label2.Location = New System.Drawing.Point(14, 80)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(160, 49)
@@ -57,7 +57,7 @@ Partial Class Form1
         'Label3
         '
         Me.Label3.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.Label3.Font = New System.Drawing.Font("TH SarabunPSK", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.Label3.Location = New System.Drawing.Point(14, 148)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(160, 49)
@@ -67,7 +67,7 @@ Partial Class Form1
         '
         'tbbase
         '
-        Me.tbbase.Font = New System.Drawing.Font("TH SarabunPSK", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.tbbase.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.tbbase.Location = New System.Drawing.Point(181, 81)
         Me.tbbase.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
         Me.tbbase.Multiline = True
@@ -79,7 +79,7 @@ Partial Class Form1
         'lboutput
         '
         Me.lboutput.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
-        Me.lboutput.Font = New System.Drawing.Font("TH SarabunPSK", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.lboutput.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.lboutput.Location = New System.Drawing.Point(63, 216)
         Me.lboutput.Name = "lboutput"
         Me.lboutput.Size = New System.Drawing.Size(317, 67)
@@ -89,7 +89,7 @@ Partial Class Form1
         '
         'tbheight
         '
-        Me.tbheight.Font = New System.Drawing.Font("TH SarabunPSK", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.tbheight.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.tbheight.Location = New System.Drawing.Point(181, 149)
         Me.tbheight.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
         Me.tbheight.Multiline = True
@@ -100,7 +100,7 @@ Partial Class Form1
         '
         'btcal
         '
-        Me.btcal.Font = New System.Drawing.Font("TH SarabunPSK", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.btcal.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.btcal.Location = New System.Drawing.Point(63, 327)
         Me.btcal.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
         Me.btcal.Name = "btcal"
@@ -111,7 +111,7 @@ Partial Class Form1
         '
         'btclr
         '
-        Me.btclr.Font = New System.Drawing.Font("TH SarabunPSK", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.btclr.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.btclr.Location = New System.Drawing.Point(265, 327)
         Me.btclr.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
         Me.btclr.Name = "btclr"
@@ -122,7 +122,7 @@ Partial Class Form1
         '
         'btexit
         '
-        Me.btexit.Font = New System.Drawing.Font("TH SarabunPSK", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
+        Me.btexit.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point)
         Me.btexit.Location = New System.Drawing.Point(165, 429)
         Me.btexit.Margin = New System.Windows.Forms.Padding(3, 4, 3, 4)
         Me.btexit.Name = "btexit"
