@@ -33,4 +33,14 @@
         tbheight.Clear()
         tbbase.Focus()
     End Sub
+
+    Private Sub btexit_Click(sender As Object, e As EventArgs) Handles btexit.Click
+        Dim bt_exit As MsgBoxResult
+        bt_exit = MsgBox("จบการทำงานใช่หรือไม่", MsgBoxStyle.YesNo, "ต้องการปิดใช่หรือไม่")
+        If bt_exit = MsgBoxResult.Yes Then
+            Application.Exit()
+        Else
+            bt_exit = MsgBoxResult.No
+        End If
+    End Sub
 End Class
