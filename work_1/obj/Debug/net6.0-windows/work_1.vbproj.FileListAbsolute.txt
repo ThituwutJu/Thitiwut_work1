@@ -1,0 +1,17 @@
+D:\portfolio-Akkarawat\Thitiwut_work1\work_1\bin\Debug\net6.0-windows\work_1.exe
+D:\portfolio-Akkarawat\Thitiwut_work1\work_1\bin\Debug\net6.0-windows\work_1.deps.json
+D:\portfolio-Akkarawat\Thitiwut_work1\work_1\bin\Debug\net6.0-windows\work_1.runtimeconfig.json
+D:\portfolio-Akkarawat\Thitiwut_work1\work_1\bin\Debug\net6.0-windows\work_1.dll
+D:\portfolio-Akkarawat\Thitiwut_work1\work_1\bin\Debug\net6.0-windows\work_1.pdb
+D:\portfolio-Akkarawat\Thitiwut_work1\work_1\obj\Debug\net6.0-windows\work_1.vbproj.AssemblyReference.cache
+D:\portfolio-Akkarawat\Thitiwut_work1\work_1\obj\Debug\net6.0-windows\work_1.Form1.resources
+D:\portfolio-Akkarawat\Thitiwut_work1\work_1\obj\Debug\net6.0-windows\work_1.vbproj.GenerateResource.cache
+D:\portfolio-Akkarawat\Thitiwut_work1\work_1\obj\Debug\net6.0-windows\work_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\portfolio-Akkarawat\Thitiwut_work1\work_1\obj\Debug\net6.0-windows\work_1.AssemblyInfoInputs.cache
+D:\portfolio-Akkarawat\Thitiwut_work1\work_1\obj\Debug\net6.0-windows\work_1.AssemblyInfo.vb
+D:\portfolio-Akkarawat\Thitiwut_work1\work_1\obj\Debug\net6.0-windows\work_1.vbproj.CoreCompileInputs.cache
+D:\portfolio-Akkarawat\Thitiwut_work1\work_1\obj\Debug\net6.0-windows\work_1.dll
+D:\portfolio-Akkarawat\Thitiwut_work1\work_1\obj\Debug\net6.0-windows\refint\work_1.dll
+D:\portfolio-Akkarawat\Thitiwut_work1\work_1\obj\Debug\net6.0-windows\work_1.pdb
+D:\portfolio-Akkarawat\Thitiwut_work1\work_1\obj\Debug\net6.0-windows\work_1.genruntimeconfig.cache
+D:\portfolio-Akkarawat\Thitiwut_work1\work_1\obj\Debug\net6.0-windows\ref\work_1.dll
