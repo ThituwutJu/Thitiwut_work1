@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\portfolio-Akkarawat\\Thitiwut_work1\\work_1\\work_1.vbproj": {}
+    "C:\\Users\\Asus\\Documents\\GitHub\\New folder\\Thitiwut_work1\\work_1\\work_1.vbproj": {}
   },
   "projects": {
-    "D:\\portfolio-Akkarawat\\Thitiwut_work1\\work_1\\work_1.vbproj": {
+    "C:\\Users\\Asus\\Documents\\GitHub\\New folder\\Thitiwut_work1\\work_1\\work_1.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\portfolio-Akkarawat\\Thitiwut_work1\\work_1\\work_1.vbproj",
+        "projectUniqueName": "C:\\Users\\Asus\\Documents\\GitHub\\New folder\\Thitiwut_work1\\work_1\\work_1.vbproj",
         "projectName": "work_1",
-        "projectPath": "D:\\portfolio-Akkarawat\\Thitiwut_work1\\work_1\\work_1.vbproj",
+        "projectPath": "C:\\Users\\Asus\\Documents\\GitHub\\New folder\\Thitiwut_work1\\work_1\\work_1.vbproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\portfolio-Akkarawat\\Thitiwut_work1\\work_1\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\Documents\\GitHub\\New folder\\Thitiwut_work1\\work_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -26,4 +26,11 @@
             End If 'check numeric base
         End If 'check blank base
     End Sub
+
+    Private Sub btclr_Click(sender As Object, e As EventArgs) Handles btclr.Click
+        lboutput.Text = "พื้นที่สามเหลี่ยม"
+        tbbase.Clear()
+        tbheight.Clear()
+        tbbase.Focus()
+    End Sub
 End Class
