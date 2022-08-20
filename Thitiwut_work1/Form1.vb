@@ -17,7 +17,8 @@ Dim index As Integer = ListBox1.SelectedIndex
     End Sub
 
     Private Sub clearall(sender As Object, e As EventArgs) Handles btallclr.Click
-
+ListBox1.Items.Clear() 
+            MsgBox("ลบทั้งหมดสำเร็จ", MsgBoxStyle.Information, "แจ้งเตือน")
     End Sub
 
     Private Sub add(sender As Object, e As EventArgs) Handles btadd.Click
