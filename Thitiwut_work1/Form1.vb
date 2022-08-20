@@ -5,7 +5,11 @@ ListBox1.Items.RemoveAt(ListBox1.SelectedIndex())
     End Sub
 
     Private Sub save(sender As Object, e As EventArgs) Handles btsave.Click
-
+Dim index As Integer = ListBox1.SelectedIndex 
+                ListBox1.Items.RemoveAt(index)
+                ListBox1.Items.Insert(index, tbname.Text)
+                tbname.Text = ""
+                MsgBox("บันทึกสำเร็จ", MsgBoxStyle.Information, "แจ้งเตือน")
     End Sub
 
     Private Sub ListBox1_Click(sender As Object, e As EventArgs) Handles ListBox1.Click
