@@ -23,7 +23,7 @@ ListBox1.Items.Add(tbname.Text)
     End Sub
 
     Private Sub clear(sender As Object, e As EventArgs) Handles btclr.Click
-
+ tbname.Text = ""
     End Sub
 
     Private Sub bt_exit(sender As Object, e As EventArgs) Handles btexit.Click
