@@ -32,7 +32,14 @@ ListBox1.Items.Add(tbname.Text)
     End Sub
 
     Private Sub bt_exit(sender As Object, e As EventArgs) Handles btexit.Click
-
+Dim bt_exit As MsgBoxResult
+        bt_exit = MsgBox("ปิดโปรแกรม ?", MsgBoxStyle.YesNo, "แจ้งเตือน")
+        If bt_exit = MsgBoxResult.Yes Then
+            Application.Exit() 
+        Else
+            bt_exit = MsgBoxResult.No
+            tbname.Focus()
+        End If
     End Sub
 
     Private Sub ListBox1_SelectedIndexChanged(sender As Object, e As EventArgs) Handles ListBox1.SelectedIndexChanged
