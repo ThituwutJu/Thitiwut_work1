@@ -1,6 +1,7 @@
 ﻿Public Class form1
     Private Sub delete(sender As Object, e As EventArgs) Handles btdelete.Click
-
+ListBox1.Items.RemoveAt(ListBox1.SelectedIndex())
+            MsgBox("ลบสำเร็จ", MsgBoxStyle.Information, "แจ้งเตือน") 
     End Sub
 
     Private Sub save(sender As Object, e As EventArgs) Handles btsave.Click
