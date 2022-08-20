@@ -16,7 +16,9 @@
     End Sub
 
     Private Sub add(sender As Object, e As EventArgs) Handles btadd.Click
-
+ListBox1.Items.Add(tbname.Text)
+            tbname.Text = ""
+            MsgBox("เพิ่มสำเร็จ", MsgBoxStyle.Information, "แจ้งเตือน")
     End Sub
 
     Private Sub clear(sender As Object, e As EventArgs) Handles btclr.Click
