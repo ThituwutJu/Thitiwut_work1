@@ -1,0 +1,17 @@
+D:\source_code\New folder\Thitiwut_work1\bin\Debug\net6.0-windows\Thitiwut_work1.exe
+D:\source_code\New folder\Thitiwut_work1\bin\Debug\net6.0-windows\Thitiwut_work1.deps.json
+D:\source_code\New folder\Thitiwut_work1\bin\Debug\net6.0-windows\Thitiwut_work1.runtimeconfig.json
+D:\source_code\New folder\Thitiwut_work1\bin\Debug\net6.0-windows\Thitiwut_work1.dll
+D:\source_code\New folder\Thitiwut_work1\bin\Debug\net6.0-windows\Thitiwut_work1.pdb
+D:\source_code\New folder\Thitiwut_work1\obj\Debug\net6.0-windows\Thitiwut_work1.vbproj.AssemblyReference.cache
+D:\source_code\New folder\Thitiwut_work1\obj\Debug\net6.0-windows\Thitiwut_work1.Form1.resources
+D:\source_code\New folder\Thitiwut_work1\obj\Debug\net6.0-windows\Thitiwut_work1.vbproj.GenerateResource.cache
+D:\source_code\New folder\Thitiwut_work1\obj\Debug\net6.0-windows\Thitiwut_work1.GeneratedMSBuildEditorConfig.editorconfig
+D:\source_code\New folder\Thitiwut_work1\obj\Debug\net6.0-windows\Thitiwut_work1.AssemblyInfoInputs.cache
+D:\source_code\New folder\Thitiwut_work1\obj\Debug\net6.0-windows\Thitiwut_work1.AssemblyInfo.vb
+D:\source_code\New folder\Thitiwut_work1\obj\Debug\net6.0-windows\Thitiwut_work1.vbproj.CoreCompileInputs.cache
+D:\source_code\New folder\Thitiwut_work1\obj\Debug\net6.0-windows\Thitiwut_work1.dll
+D:\source_code\New folder\Thitiwut_work1\obj\Debug\net6.0-windows\refint\Thitiwut_work1.dll
+D:\source_code\New folder\Thitiwut_work1\obj\Debug\net6.0-windows\Thitiwut_work1.pdb
+D:\source_code\New folder\Thitiwut_work1\obj\Debug\net6.0-windows\Thitiwut_work1.genruntimeconfig.cache
+D:\source_code\New folder\Thitiwut_work1\obj\Debug\net6.0-windows\ref\Thitiwut_work1.dll
