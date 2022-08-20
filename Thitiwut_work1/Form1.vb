@@ -13,7 +13,7 @@ Dim index As Integer = ListBox1.SelectedIndex
     End Sub
 
     Private Sub ListBox1_Click(sender As Object, e As EventArgs) Handles ListBox1.Click
-
+tbname.Text = ListBox1.SelectedItem.ToString()
     End Sub
 
     Private Sub clearall(sender As Object, e As EventArgs) Handles btallclr.Click
